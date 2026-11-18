@@ -1,0 +1,6 @@
+{
+  "name": "Kiwi Beauty Care & Tattoo Studio",
+  "description": "Kiwi Beauty Care & Tattoo Studio in Chidambaram — beauty care, personal styling and creative tattoo artistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
